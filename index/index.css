@@ -1,0 +1,85 @@
+body{
+  margin: 0;
+}
+
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li{
+  font-family: monospace;
+}
+
+header{
+  background-color: #3B72F1;
+  margin: 0;
+  height:100px;
+}
+
+.logo {
+  display:inline-flex;
+  height:100px;
+  width:100px;
+}
+
+p{
+  margin-top: 10px;
+  width:100%;
+  font-size: 30px;
+  font-family: monospace;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.title {
+  font-family: monospace;
+  display: inline;
+  position: relative;
+  font-size: 50px;
+  color: white;
+  text-decoration: none;
+  bottom: 35px;
+}
+
+.mainContent{
+  position:absolute;
+  width:80%;
+  font-size: 35px;
+  text-align: center;
+}
+
+.videoMain{
+  margin:10%;
+  margin-top: 2%;
+  margin-bottom:0;
+  width:80%;
+  height:400px;
+  border: 10px;
+  border-style: double;
+}
+
+.videoList {
+  display: inline;
+  float:right;
+  text-align: right;
+  width:20%;
+}
+
+.videoTab{
+  border-width: 2px;
+  border-left-style: solid;
+  border-bottom-style: solid;
+  padding-right: 30px;
+}
+
+.sparta{
+  height:50%;
+}
+
+.nic{
+  height:50%;
+}
