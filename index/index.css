@@ -9,6 +9,7 @@ h1{
 
 li{
   font-family: monospace;
+  list-style: none;
 }
 
 header{
